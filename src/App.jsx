@@ -14,7 +14,7 @@ function App() {
           <span className="text-blue-400 dark:text-blue-500">Selikem</span>.
         </p>
         <img
-          src="/src/assets/geepaps-cover-image.png"
+          src="/geepaps-cover-image.png"
           alt="this is supposed to be a photo"
           className="rounded-lg my-4"
         />
