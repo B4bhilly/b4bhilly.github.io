@@ -19,7 +19,7 @@ function App() {
           className="rounded-lg my-4"
         />
         <p className="md:text-xl mb-2 font-semibold">
-          producer, graphic designer, songwriter
+          producer, graphic designer, songwriter.
         </p>
 
         <button className="md:text-xl mr-2 my-2 rounded-full items-center justify-center">
