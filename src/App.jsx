@@ -24,7 +24,7 @@ function App() {
 
         <button className="md:text-xl mr-2 my-2 rounded-full items-center justify-center">
           <a
-            href="../public/Benjamin Selikem Keteku.pdf"
+            href="BenjaminSelikemKetekuResume.pdf"
             target="_blank"
             className="dark:bg-zinc-500 px-2 py-[0.25px] items-center justify-center rounded-full"
           >
