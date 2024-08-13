@@ -2,22 +2,22 @@ export default function Header() {
   return (
     <main className="flex md:flex-row flex-col items-center justify-between text-xl">
       <div className="flex flex-row items-center">
-        <p className="font-semibold">geepaps</p>
+        <p className="font-semibold text-greeen-400">{"<"}b4bhilly /{">"}</p>
       </div>
       <div>
         <ul className="flex flex-row gap-2 my-2 md:my-0 dark:bg-inherit dark:border dark:border-solid dark:border-zinc-300 bg-gray-500 w-fit px-4 py-1 rounded-full">
           <li>
-            <a href="https://github.com/geepaps">
+            <a href="https://github.com/b4bhilly">
               <Github01Icon />
             </a>
           </li>
           <li>
-            <a href="mailto:geepapsmadeit@gmail.com">
+            <a href="mailto:gormanshaphat@gmail.com">
               <Mail01Icon />
             </a>
           </li>
           <li>
-            <a href="https://x.com/geepaps">
+            <a href="https://x.com/izkofi_">
               <NewTwitterRectangleIcon />
             </a>
           </li>
