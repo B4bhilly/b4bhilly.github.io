@@ -18,7 +18,7 @@ export default function Footer() {
         </p>
 
         <p className="text-zinc-500">
-          react + vite | tailwindcss | github pages
+          react + vite | tailwindcss | github pagess
         </p>
       </div>
     </main>
